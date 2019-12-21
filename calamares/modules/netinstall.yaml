@@ -1,7 +1,57 @@
 
-- name: "Kernel"
+- name: "LTS Kernel without any Nvidia"
   description: "Choose the LTS (LONG TERM SUPPORT) only if you need it"
   critical: false
+  hidden: false  
   selected: false
   packages:
     - linux-lts
+- name: "Nvidia with Linux kernel"
+  description: "Installs nvidia and its packages - check Arch wiki what you need"
+  critical: false
+  hidden: false  
+  selected: false
+  packages:
+    - linux
+    - nvidia
+    - nvidia-settings
+    - nvidia-utils
+- name: "Nvidia with Linux-lts kernel"
+  description: "Installs nvidia and its packages - check Arch wiki what you need"
+  critical: false
+  hidden: false  
+  selected: false
+  packages:
+    - linux-lts
+    - nvidia-lts
+    - nvidia-settings
+    - nvidia-utils
+- name: "Nvidia-390xx with Linux kernel"
+  description: "Installs nvidia and its packages - check Arch wiki what you need"
+  critical: false
+  hidden: false  
+  selected: false
+  packages:
+    - linux
+    - nvidia-390xx
+    - nvidia-390xx-settings
+    - nvidia-390xx-utils
+- name: "Nvidia-390xx with Linux-lts kernel"
+  description: "Installs nvidia and its packages - check Arch wiki what you need"
+  critical: false
+  hidden: false  
+  selected: false
+  packages:
+    - linux-lts
+    - nvidia-390xx-lts
+    - nvidia-390xx-settings
+    - nvidia-390xx-utils
+- name: "WPS Office"
+  description: "Installs WPS Office"
+  critical: false
+  hidden: false  
+  selected: false
+  packages:
+    - wps-office
+    - wps-office-mime    
+    - ttf-wps-office        
