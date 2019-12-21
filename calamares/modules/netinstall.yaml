@@ -1,5 +1,5 @@
 
-- name: "Linux-lts Kernel without any Nvidia"
+- name: "Linux-lts kernel without any nvidia"
   description: "Installs only the linux-lts kernel"
   critical: false
   hidden: false  
