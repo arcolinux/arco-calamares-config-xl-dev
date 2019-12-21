@@ -1,13 +1,13 @@
 
-- name: "LTS Kernel without any Nvidia"
+- name: "Linux-lts Kernel without any Nvidia"
   description: "Choose the LTS (LONG TERM SUPPORT) only if you need it"
   critical: false
   hidden: false  
   selected: false
   packages:
     - linux-lts
-- name: "Nvidia with Linux kernel"
-  description: "Installs nvidia and its packages - check Arch wiki what you need"
+- name: "Nvidia with linux kernel"
+  description: "Installs nvidia and linux kernel - check Arch wiki nvidia"
   critical: false
   hidden: false  
   selected: false
@@ -16,8 +16,8 @@
     - nvidia
     - nvidia-settings
     - nvidia-utils
-- name: "Nvidia with Linux-lts kernel"
-  description: "Installs nvidia and its packages - check Arch wiki what you need"
+- name: "Nvidia-lts with linux-lts kernel"
+  description: "Installs nvidia-lts and linux-lts kernel - check Arch wiki nvidia"
   critical: false
   hidden: false  
   selected: false
@@ -26,8 +26,8 @@
     - nvidia-lts
     - nvidia-settings
     - nvidia-utils
-- name: "Nvidia-390xx with Linux kernel"
-  description: "Installs nvidia and its packages - check Arch wiki what you need"
+- name: "Nvidia-390xx with linux kernel"
+  description: "Installs nvidia-390xx and linux kernel - check Arch wiki nvidia"
   critical: false
   hidden: false  
   selected: false
@@ -36,8 +36,8 @@
     - nvidia-390xx
     - nvidia-390xx-settings
     - nvidia-390xx-utils
-- name: "Nvidia-390xx with Linux-lts kernel"
-  description: "Installs nvidia and its packages - check Arch wiki what you need"
+- name: "Nvidia-390xx with linux-lts kernel"
+  description: "Installs nvidia-390xx-lts and linux-lts kernel - check Arch wiki nvidia"
   critical: false
   hidden: false  
   selected: false
