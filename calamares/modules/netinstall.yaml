@@ -46,15 +46,15 @@
     - nvidia-390xx-lts
     - nvidia-390xx-settings
     - nvidia-390xx-utils
-- name: "Libre Office Stable"
-  description: "Installs libre office still - stable branch"
+- name: "Libre Office Still"
+  description: "Installs libre office still - stable branch - conflicts with fresh"
   critical: false
   hidden: false  
   selected: false
   packages:
     - libreoffice-still
-- name: "Libre Office Feature Branch"
-  description: "Installs libre office fresh - feature branch"
+- name: "Libre Office Fresh"
+  description: "Installs libre office fresh - feature branch - conflicts with still"
   critical: false
   hidden: false  
   selected: false
