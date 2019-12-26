@@ -47,14 +47,14 @@
     - nvidia-390xx-settings
     - nvidia-390xx-utils
 - name: "Intel-ucode"
-  description: "Installs intel-ucode - see arch wiki microcode"
+  description: "Installs intel-ucode - see Arch wiki microcode"
   critical: false
   hidden: false
   selected: false
   packages:
     - intel-ucode
 - name: "Amd-ucode"
-  description: "Installs amd-ucode - see arch wiki microcode"
+  description: "Installs amd-ucode - see Arch wiki microcode"
   critical: false
   hidden: false
   selected: false
