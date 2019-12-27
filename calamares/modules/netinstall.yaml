@@ -1,4 +1,10 @@
-
+- name: "Linux kernel without any nvidia"
+  description: "Installs only the latest linux kernel (not the one from iso)"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - linux
 - name: "Linux-lts kernel without any nvidia"
   description: "Installs only the linux-lts kernel"
   critical: false
