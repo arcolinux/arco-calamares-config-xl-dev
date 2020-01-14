@@ -73,6 +73,8 @@
   selected: false
   packages:
     - libreoffice-still
+    - libreoffice-still-$LOCALE
+    - hunspell-$LOCALE
 - name: "Libre Office Fresh"
   description: "Installs libre office fresh - feature branch - conflicts with still"
   critical: false
@@ -80,6 +82,8 @@
   selected: false
   packages:
     - libreoffice-fresh
+    - libreoffice-fresh-$LOCALE
+    - hunspell-$LOCALE
 - name: "WPS Office"
   description: "Installs wps office"
   critical: false
