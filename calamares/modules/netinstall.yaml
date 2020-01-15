@@ -121,20 +121,20 @@
   hidden: false
   selected: false
   packages:
-    - arcolinux-steam
+    - arcolinux-meta-steam
 - name: "Graphics"
   description: "Graphics"
   critical: false
   hidden: false
   selected: false
   packages:
-    - inkscape
-    - gimp
-    - krita
-    - darktable
     - blender
+    - darktable
+    - gimp
+    - gpick
+    - inkscape
+    - krita
     - nomacs
-    - peek
     - ristretto
 - name: "Internet"
   description: "Internet"
@@ -144,19 +144,21 @@
   packages:
     - brave
     - chromium
+    - deluge
     - discord
     - dropbox
     - evolution
-    - geary
+    - filezilla
     - firefox
+    - geary
     - hexchat
     - insync
-    - k-torrent
-    - vivaldi
+    - ktorrent
     - qbittorrent
-    - thunderbird
     - telegram-desktop
+    - thunderbird
     - transmission-gtk
+    - vivaldi
 - name: "Multimedia"
   description: "Multimedia"
   critical: false
@@ -166,17 +168,37 @@
     - audacious
     - clementine
     - deadbeef
+    - guvcview
     - lollypop
     - mpv
+    - peek
     - pragha
     - rhythmbox
+    - simplescreenrecorder
     - spotify
     - spotifywm-git
     - vlc
-- name: "Themes"
+- name: "Utilities"
+  description: "Utilities"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - baobab
+    - gnome-disk-utility
+    - grsync
+    - timeshift
+    - arcolinux-meta-utilities
+    - arcolinux-meta-fun-script
   description: "Themes"
   critical: false
   hidden: false
   selected: false
   packages:
+    - adapta-gtk-theme
+    - arc-gtk-theme
+    - arc-icon-themes
     - arcolinux-arc-themes-nico-git
+    - faba-icon-theme
+    - moka-icon-theme
+    - papirus-icon-theme
