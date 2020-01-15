@@ -198,7 +198,6 @@
   selected: false
   packages:
     - baobab
-    - gnome-disk-utility
     - grsync
     - timeshift
     - arcolinux-meta-utilities
