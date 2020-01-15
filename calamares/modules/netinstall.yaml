@@ -100,6 +100,7 @@
   selected: false
   packages:
     - font-manager-git
+    - galculator
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
@@ -185,7 +186,6 @@
   selected: false
   packages:
     - adapta-gtk-theme
-    - arc-gtk-theme
     - arc-icon-themes
     - arcolinux-arc-themes-nico-git
     - faba-icon-theme
