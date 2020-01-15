@@ -154,6 +154,7 @@
     - lollypop
     - clementine
     - rhythmbox
+    - pragha
   - name: "Mail"
     description: "Mail client"
     critical: false
