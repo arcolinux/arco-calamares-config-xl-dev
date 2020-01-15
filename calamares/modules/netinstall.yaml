@@ -100,8 +100,8 @@
   selected: false
   packages:
     - arcolinux-steam
-- name: "Browsers"
-  description: "Browsers"
+- name: "Internet"
+  description: "Browsers,..."
   critical: false
   hidden: false
   selected: false
@@ -110,7 +110,9 @@
     - chromium
     - vivaldi
     - brave
-- name: "Editors"
+    - qbittorrent
+    - transmission-gtk
+- name: "Development"
   description: "Application to edit"
   critical: false
   hidden: false
@@ -155,12 +157,19 @@
     - clementine
     - rhythmbox
     - pragha
-  - name: "Mail"
-    description: "Mail client"
-    critical: false
-    hidden: false
-    selected: false
-    packages:
-      - evolution
-      - thunderbird
-      - geary
+- name: "Mail"
+  description: "Mail client"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - evolution
+    - thunderbird
+    - geary
+- name: "Themes"
+  description: "Themes"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - arcolinux-arc-themes-nico-git
