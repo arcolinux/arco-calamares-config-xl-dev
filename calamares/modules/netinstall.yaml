@@ -100,3 +100,66 @@
   selected: false
   packages:
     - arcolinux-steam
+- name: "Browsers"
+  description: "Browsers"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - firefox
+    - chromium
+    - vivaldi
+    - brave
+- name: "Editors"
+  description: "Application to edit"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - atom
+    - geany
+    - sublime-text-dev
+- name: "Design"
+  description: "Design applications"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - inkscape
+    - gimp
+- name: "Communication"
+  description: "Communication applications"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - discord
+    - telegram-desktop
+- name: "Cloud"
+  description: "Cloud service"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - dropbox
+    - insync
+- name: "Music"
+  description: "Music player"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - spotify
+    - audacious
+    - lollypop
+    - clementine
+    - rhythmbox
+  - name: "Mail"
+    description: "Mail client"
+    critical: false
+    hidden: false
+    selected: false
+    packages:
+      - evolution
+      - thunderbird
+      - geary
