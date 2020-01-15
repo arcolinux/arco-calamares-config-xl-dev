@@ -103,8 +103,8 @@
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
-    - variety
     - arcolinux-variety-git
+    - variety
     - xfburn
 - name: "Development"
   description: "Development"
@@ -178,18 +178,7 @@
     - spotify
     - spotifywm-git
     - vlc
-- name: "Utilities"
-  description: "Utilities"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - baobab
-    - gnome-disk-utility
-    - grsync
-    - timeshift
-    - arcolinux-meta-utilities
-    - arcolinux-meta-fun-script
+- name: "Themes"
   description: "Themes"
   critical: false
   hidden: false
@@ -202,3 +191,15 @@
     - faba-icon-theme
     - moka-icon-theme
     - papirus-icon-theme
+- name: "Utilities"
+  description: "Utilities"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - baobab
+    - gnome-disk-utility
+    - grsync
+    - timeshift
+    - arcolinux-meta-utilities
+    - arcolinux-meta-fun
