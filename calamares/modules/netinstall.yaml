@@ -135,6 +135,7 @@
     - gpick
     - inkscape
     - krita
+    - nitrogen
     - nomacs
     - ristretto
 - name: "Internet"
