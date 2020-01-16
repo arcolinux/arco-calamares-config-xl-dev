@@ -101,6 +101,7 @@
   packages:
     - font-manager-git
     - galculator
+    - flameshot
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
@@ -114,8 +115,10 @@
   selected: false
   packages:
     - atom
-    - geany
     - code
+    - geany
+    - geany-plugins
+    - kdevelop
 - name: "Games"
   description: "Games"
   critical: false
@@ -131,12 +134,14 @@
   packages:
     - blender
     - darktable
+    - digikam
     - gimp
     - gpick
     - inkscape
     - krita
     - nitrogen
     - nomacs
+    - pinta
     - ristretto
 - name: "Internet"
   description: "Internet"
@@ -150,12 +155,15 @@
     - discord
     - dropbox
     - evolution
+    - falkon
     - filezilla
     - firefox
     - geary
     - hexchat
     - insync
     - ktorrent
+    - opera
+    - pidgin
     - qbittorrent
     - telegram-desktop
     - thunderbird
@@ -168,15 +176,23 @@
   selected: false
   packages:
     - audacious
+    - celluloid
     - clementine
     - deadbeef
+    - elisa
     - guvcview
+    - handbrake
+    - kdenlive
     - lollypop
+    - obs-studio
+    - openshot
     - mpv
     - peek
     - pragha
     - rhythmbox
     - simplescreenrecorder
+    - soundconverter
+    - smplayer
     - spotify
     - spotifywm-git
     - vlc
