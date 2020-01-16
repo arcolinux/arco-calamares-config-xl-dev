@@ -92,7 +92,7 @@
   packages:
     - wps-office
     - wps-office-mime
-    - ttf-wps-office
+    - ttf-wps-fonts
 - name: "Accessories"
   description: "Accessories,..."
   critical: false
