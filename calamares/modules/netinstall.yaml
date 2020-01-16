@@ -203,7 +203,7 @@
   selected: false
   packages:
     - adapta-gtk-theme
-    - arc-icon-themes
+    - arc-icon-theme
     - arcolinux-arc-themes-nico-git
     - faba-icon-theme
     - moka-icon-theme
