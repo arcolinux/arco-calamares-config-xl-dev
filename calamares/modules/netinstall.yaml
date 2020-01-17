@@ -66,15 +66,6 @@
   selected: false
   packages:
     - amd-ucode
-- name: "Libre Office Still"
-  description: "Installs libre office still - stable branch - conflicts with fresh"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - libreoffice-still
-    - libreoffice-still-$LOCALE
-    - hunspell-$LOCALE
 - name: "Accessories"
   description: "Accessories,..."
   critical: false
@@ -159,6 +150,15 @@
   packages:
     - libreoffice-fresh
     - libreoffice-fresh-$LOCALE
+    - hunspell-$LOCALE
+- name: "Libre Office Still"
+  description: "Installs libre office still - stable branch - conflicts with fresh"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - libreoffice-still
+    - libreoffice-still-$LOCALE
     - hunspell-$LOCALE
 - name: "Multimedia"
   description: "Multimedia"
