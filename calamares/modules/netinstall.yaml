@@ -67,7 +67,7 @@
   packages:
     - amd-ucode
 - name: "Accessories"
-  description: "Accessories,..."
+  description: "Accessories"
   critical: false
   hidden: false
   selected: false
@@ -210,6 +210,25 @@
     - timeshift
     - arcolinux-meta-utilities
     - arcolinux-meta-fun
+- name: "Virtualbox for Linux kernel"
+  description: "Installs virtualbox for linux kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - virtualbox
+    - virtualbox-host-dkms
+    - linux-headers
+- name: "Virtualbox for Linux-lts kernel"
+  description: "Installs virtualbox for linux-lts kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - virtualbox
+    - virtualbox-host-dkms
+    - linux-lts-headers
+    - linux-lts
 - name: "WPS Office"
   description: "Installs wps office"
   critical: false
