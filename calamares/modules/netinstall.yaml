@@ -99,6 +99,13 @@
     - digikam
     - krita
     - pinta
+- name: "Fun"
+  description: "Fun"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - arcolinux-meta-fun
 - name: "Internet"
   description: "Internet"
   critical: false
@@ -179,7 +186,9 @@
   hidden: false
   selected: false
   packages:
-    - arcolinux-meta-fun
+    - glances
+    - gtop
+    - powertop
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
