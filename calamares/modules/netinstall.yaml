@@ -72,25 +72,14 @@
   hidden: false
   selected: false
   packages:
-    - font-manager-git
-    - galculator
     - flameshot
-    - plank
-    - arcolinux-plank-themes-git
-    - screenkey-git
-    - arcolinux-variety-git
-    - variety
-    - xfburn
 - name: "Development"
   description: "Development"
   critical: false
   hidden: false
   selected: false
   packages:
-    - atom
     - code
-    - geany
-    - geany-plugins
     - kdevelop
 - name: "Games"
   description: "Games"
@@ -108,14 +97,8 @@
     - blender
     - darktable
     - digikam
-    - gimp
-    - gpick
-    - inkscape
     - krita
-    - nitrogen
-    - nomacs
     - pinta
-    - ristretto
 - name: "Internet"
   description: "Internet"
   critical: false
@@ -123,14 +106,11 @@
   selected: false
   packages:
     - brave
-    - chromium
     - deluge
     - discord
     - dropbox
-    - evolution
     - falkon
     - filezilla
-    - firefox
     - geary
     - hexchat
     - insync
@@ -141,7 +121,6 @@
     - telegram-desktop
     - thunderbird
     - transmission-gtk
-    - vivaldi
 - name: "Libre Office Fresh"
   description: "Installs libre office fresh - feature branch - conflicts with still"
   critical: false
@@ -167,26 +146,22 @@
   selected: false
   packages:
     - audacious
+    - audacity
     - celluloid
     - clementine
     - deadbeef
     - elisa
-    - guvcview
     - handbrake
     - kdenlive
     - lollypop
     - obs-studio
     - openshot
     - mpv
-    - peek
-    - pragha
     - rhythmbox
-    - simplescreenrecorder
     - soundconverter
     - smplayer
     - spotify
     - spotifywm-git
-    - vlc
 - name: "Themes"
   description: "Themes"
   critical: false
@@ -195,7 +170,6 @@
   packages:
     - adapta-gtk-theme
     - arc-icon-theme
-    - arcolinux-arc-themes-nico-git
     - faba-icon-theme
     - moka-icon-theme
     - papirus-icon-theme
@@ -205,10 +179,6 @@
   hidden: false
   selected: false
   packages:
-    - baobab
-    - grsync
-    - timeshift
-    - arcolinux-meta-utilities
     - arcolinux-meta-fun
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
