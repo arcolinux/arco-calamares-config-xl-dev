@@ -81,6 +81,13 @@
   packages:
     - code
     - kdevelop
+- name: "Fonts"
+  description: "Fonts"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - terminus-font
 - name: "Games"
   description: "Games"
   critical: false
@@ -179,7 +186,10 @@
     - arc-icon-theme
     - faba-icon-theme
     - moka-icon-theme
+    - oxy-neon
+    - paper-icon-theme
     - papirus-icon-theme
+    - xcursor-simpleandsoft
 - name: "Utilities"
   description: "Utilities"
   critical: false
