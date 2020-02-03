@@ -184,12 +184,14 @@
   packages:
     - adapta-gtk-theme
     - arc-icon-theme
+    - arcolinux-arc-kde
     - bibata-cursor-theme
     - faba-icon-theme
     - moka-icon-theme
     - oxy-neon
     - paper-icon-theme
     - papirus-icon-theme
+    - surfn-arc-breeze-icons-git
     - xcursor-simpleandsoft
 - name: "Utilities"
   description: "Utilities"
