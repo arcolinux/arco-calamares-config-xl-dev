@@ -215,6 +215,7 @@
   hidden: false
   selected: false
   packages:
+    - gitahead-bin
     - gitfiend
     - glances
     - gtop
