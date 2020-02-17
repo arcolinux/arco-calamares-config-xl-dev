@@ -12,6 +12,20 @@
   selected: false
   packages:
     - linux-lts
+- name: "Linux-hardened kernel without any nvidia"
+  description: "Installs only the linux-hardened kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - linux-hardened
+- name: "Linux-zen kernel without any nvidia"
+  description: "Installs only the linux-zen kernel"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - linux-zen
 - name: "Nvidia with linux kernel"
   description: "Installs nvidia and linux kernel - check Arch wiki nvidia"
   critical: false
@@ -159,6 +173,7 @@
   hidden: false
   selected: false
   packages:
+    - ardour
     - audacious
     - audacity
     - celluloid
@@ -168,6 +183,7 @@
     - handbrake
     - kdenlive
     - lollypop
+    - lmms
     - obs-studio
     - openshot
     - mpv
@@ -202,6 +218,7 @@
     - glances
     - gtop
     - powertop
+    - systemd-manager
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
