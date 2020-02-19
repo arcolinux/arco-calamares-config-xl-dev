@@ -139,6 +139,7 @@
     - dropbox
     - falkon
     - filezilla
+    - firefox-i18n-$LOCALE
     - geary
     - hexchat
     - insync
