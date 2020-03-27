@@ -1,0 +1,36 @@
+- name: "Multimedia"
+  description: "Audio and video software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - ardour
+    - audacious
+    - audacity
+    - celluloid
+    - clementine
+    - deadbeef
+    - elisa
+    - handbrake
+    - juk
+    - kdenlive
+    - kodi
+    - kodi-addons
+    - lollypop
+    - lxmusic
+    - lmms
+    - obs-studio
+    - openshot
+    - mpc
+    - mpd
+    - mpv
+    - ncmpcpp
+    - plex-media-player
+    - plex-media-server
+    - radiotray
+    - rhythmbox
+    - soundconverter
+    - smplayer
+    - spotify
+    - spotifywm-git

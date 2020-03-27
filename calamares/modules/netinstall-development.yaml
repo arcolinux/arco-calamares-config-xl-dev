@@ -1,0 +1,17 @@
+- name: "Development"
+  description: "Development software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - brackets-bin
+    - code
+    - geany-plugins
+    - intellij-idea-community-edition
+    - kdevelop
+    - leafpad
+    - notepadqq
+    - openscad
+    - pycharm-community-edition
+    - visual-studio-code-bin
