@@ -1,2 +1,2 @@
-# ArcoLinux Calamares configuration Development
+# ArcoLinux Calamares configuration
 
