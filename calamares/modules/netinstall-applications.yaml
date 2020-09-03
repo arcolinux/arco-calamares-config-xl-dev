@@ -26,7 +26,6 @@
   selected: false
   expanded: true
   packages:
-    - gitahead-bin
     - gitg
     - gitfiend
     - gitkraken
