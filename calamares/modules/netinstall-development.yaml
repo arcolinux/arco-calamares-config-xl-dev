@@ -7,6 +7,7 @@
   packages:
     - brackets-bin
     - code
+    - emacs
     - geany-plugins
     - intellij-idea-community-edition
     - kdevelop
