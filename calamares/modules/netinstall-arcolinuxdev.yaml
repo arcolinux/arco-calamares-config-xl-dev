@@ -6,5 +6,3 @@
   expanded: true
   packages:
     - flameshot
-    - telegram-desktop
-    - discord

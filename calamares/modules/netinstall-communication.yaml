@@ -6,14 +6,12 @@
   expanded: true
   packages:
     - arcolinux-teamviewer
-    - discord
     - krdc
     - qtox
     - remmina
     - skypeforlinux-stable-bin
     - slack-desktop
     - teams
-    - telegram-desktop
     - tigervnc
     - viber
     - whatsapp-nativefier    
