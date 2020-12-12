@@ -20,8 +20,9 @@
     - octopi
     - powertop
     - putty
-    - sigil
     - screenfetch
+    - sigil
+    - slimbookbattery
     - snapd
     - synapse
     - sysprof
