@@ -48,6 +48,8 @@ calamares orange 	#D35400
 }
 
 #sidebarMenuApp {
+	padding: 3px;
+	background-color: #353945;
 }
 
 QWidget {
@@ -64,10 +66,13 @@ QListWidget::item:alternate {
 }
 
 #view-button-back:hover {
+	color: #D35400;
 }
 #view-button-next:hover {
+	color: #D35400;
 }
 #view-button-cancel:hover {
+	color: #D35400;
 }
 
 #debugButton {
@@ -75,21 +80,33 @@ QListWidget::item:alternate {
 	color: #FFFFFF;
 }
 #debugButton:hover {
+	color: #D35400;
 }
 
 #aboutButton:hover {
+	color: #D35400;
+}
 #donateButton:hover {
+	color: #D35400;
 }
 #supportButton:hover {
+	color: #D35400;
 }
 #knownIssuesButton:hover {
+	color: #D35400;
 }
 #releaseNotesButton:hover {
+	color: #D35400;
 }
 
 /* ########## TOOLTIP ########## */
 
 QToolTip {
+	background-color: #D35400;
+  font : 16px;
+	color: white;
+	padding: 3px;
+	border: none;
 }
 
 QPushButton {
@@ -97,20 +114,36 @@ QPushButton {
 }
 
 QDialogButtonBox {
+	dialogbuttonbox-buttons-have-icons: 0;
 }
 
 /* ########## SCROLL BAR ########## */
 
 QScrollBar:vertical {
+     background: #353945;
+     width: 20px;
+     margin: 50px 0 50px 0;
 }
 
 QScrollBar::handle:vertical {
+     background: #D35400;
+     max-height: 25px;
 }
 
 QScrollBar::sub-line:vertical {
+     border: none;
+     background: none;
+     height: 20px;
+     subcontrol-position: top;
+     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:vertical {
+     border: none;
+     background: none;
+     height: 20px;
+     subcontrol-position: bottom;
+     subcontrol-origin: margin;
 }
 
 /* ########## QLIST VIEW ########## */
@@ -120,18 +153,28 @@ QListView {
 }
 
 QListView::item:alternate {
+	color: #D35400;
+	color: white;
 }
 
 QListView::item:!alternate:selected:active {
+	background: #D35400;
+	color: white;
 }
 
 QListView::item:selected:active {
+	background: #D35400;
+	color: white;
 }
 
 QListView::item:selected:!active {
+	background: #D35400;
+	color: white;
 }
 
 QListView::item:hover {
+	background: #D35400;
+	color: white;
 }
 
 QListView#listLayout::item:!alternate:selected:active {
@@ -140,6 +183,8 @@ QListView#listLayout::item:!alternate:selected:active {
 }
 
 QListView#listVariant::item:!alternate:selected:active {
+	background: #D35400;
+	color: white;
 }
 
 
@@ -274,6 +319,8 @@ QComboBox {
 }
 
 QComboBox::item:selected {
+	background: #D35400;
+	color: white;
 }
 
 #mountPointComboBox::drop-down {
@@ -294,6 +341,7 @@ QLineEdit {
 
 QTreeView {
 	font: 16px;
+	show-decoration-selected: 0;
 }
 
 QTreeView::item {
@@ -301,6 +349,7 @@ QTreeView::item {
 }
 
 QTreeView::item:selected {
+	background: #D35400;
 	font: bold;
 }
 
