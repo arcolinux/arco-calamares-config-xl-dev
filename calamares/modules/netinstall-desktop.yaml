@@ -1,4 +1,4 @@
-- name: "Desktop: Xfce"
+- name: "Desktop: Xfce4"
   description: "Xfce4 - installed by default"
   critical: false
   hidden: false
@@ -98,7 +98,6 @@
     - arcolinux-wallpapers-git
     - budgie-desktop
     - budgie-extras
-    - dconf-editor
     - gnome
     - guake
     - ttf-hack
@@ -260,7 +259,6 @@
     - arcolinux-root-git
     - arcolinux-tweak-tool-git
     - arcolinux-wallpapers-git
-    - dconf-editor
     - gnome
     - gnome-extra
     - guake

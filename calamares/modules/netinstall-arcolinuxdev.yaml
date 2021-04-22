@@ -5,5 +5,4 @@
   selected: false
   expanded: true
   packages:
-    - dconf-editor
     - flameshot
