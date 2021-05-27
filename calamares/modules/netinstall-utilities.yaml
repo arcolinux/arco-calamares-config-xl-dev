@@ -13,6 +13,7 @@
     - cpu-x
     - flatpak
     - glances
+    - grub-btrfs
     - google-earth-pro
     - grsync
     - kbackup
@@ -28,5 +29,6 @@
     - synapse
     - sysprof
     - systemd-manager
+    - timeshift-autosnap
     - vnstat
     - wireshark-qt
