@@ -12,6 +12,7 @@
     - clementine
     - deadbeef
     - elisa
+    - guvcview
     - handbrake
     - hypnotix
     - juk
@@ -28,13 +29,18 @@
     - mpd
     - mpv
     - ncmpcpp
+    - peek
+    - pitivi
     - plex-media-player
     - plex-media-server
+    - pragha
     - radiotray
     - rhythmbox
     - sayonara-player
+    - simplescreenrecorder
     - soundconverter
     - smplayer
     - spotify
     - spotifywm-git
+    - vlc
     - tauon-music-box
