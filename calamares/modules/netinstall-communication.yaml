@@ -7,6 +7,7 @@
   packages:
     - arcolinux-teamviewer
     - krdc
+    - nomachine
     - qtox
     - remmina
     - skypeforlinux-stable-bin
