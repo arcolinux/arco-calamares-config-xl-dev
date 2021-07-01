@@ -5,4 +5,4 @@
   selected: false
   expanded: true
   packages:
-    - flameshot
+    - flameshot-git
