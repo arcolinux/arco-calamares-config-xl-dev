@@ -6,8 +6,11 @@
   expanded: true
   packages:
     - arcolinux-teamviewer
+    - hexchat    
     - krdc
+    - mailspring
     - nomachine
+    - pidgin    
     - qtox
     - remmina
     - skypeforlinux-stable-bin

@@ -5,7 +5,7 @@
   selected: false
   expanded: true
   packages:
-    - brave
+    - brave-bin
     - deluge
     - dropbox
     - evolution
@@ -16,16 +16,15 @@
     - firefox-ublock-origin
     - geary
     - google-chrome
-    - hexchat
     - insync
     - ktorrent
     - librewolf-bin
+    - megasync-bin
     - midori
     - min
     - netsurf
     - nextcloud-client
     - opera
-    - pidgin
     - qutebrowser
     - thunderbird
     - torbrowser-launcher

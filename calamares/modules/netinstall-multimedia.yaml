@@ -8,9 +8,12 @@
     - amarok
     - ardour
     - audacious
+    - audacious-plugins
     - audacity
     - celluloid
+    - cava
     - clementine
+    - curseradio-git
     - deadbeef
     - elisa
     - gmusicbrowser
@@ -18,10 +21,12 @@
     - handbrake
     - hypnotix
     - juk
+    - kazam
     - kdenlive
     - kodi-x11
     - kodi
     - kodi-addons
+    - kwave
     - lollypop
     - lxmusic
     - lmms
@@ -36,14 +41,11 @@
     - pitivi
     - plex-media-player
     - plex-media-server
-    - pragha
     - radiotray
     - rhythmbox
     - sayonara-player
-    - simplescreenrecorder
     - soundconverter
     - smplayer
     - spotify
     - spotifywm-git
-    - vlc
     - tauon-music-box
