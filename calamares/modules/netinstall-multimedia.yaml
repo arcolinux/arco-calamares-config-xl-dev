@@ -16,6 +16,7 @@
     - curseradio-git
     - deadbeef
     - elisa
+    - freetube-bin
     - gmusicbrowser
     - guvcview
     - handbrake
@@ -49,3 +50,4 @@
     - spotify
     - spotifywm-git
     - tauon-music-box
+    - youtube-dl-gui-git   
