@@ -54,6 +54,7 @@
     - speedtest-cli-git
     - stacer
     - stacer-bin
+    - s-tui
     - synapse
     - sysprof
     - systemd-manager
