@@ -27,26 +27,38 @@
     - catfish
     - cpufetch-git
     - cpu-x
+    - dmidecode
+    - evince
     - flatpak
+    - galculator
     - geekbench
     - glances
     - google-earth-pro
     - gotop-bin
     - grsync
+    - gtop
+    - gufw
+    - hddtemp
+    - htop
     - kbackup
+    - lm_sensors
+    - lshw
     - mullvad-vpn-bin
     - nvtop
     - nvtop-git
     - open-vm-tools
     - optimus-manager
     - octopi
+    - pamac-all
     - parcellite
     - pfetch
+    - powerpill
     - powertop
     - putty
     - redshift
     - screenfetch
     - sigil
+    - simple-scan
     - slimbookbattery
     - slurm
     - snapd
@@ -65,5 +77,6 @@
     - vnstat
     - wireshark-qt
     - workrave
+    - wttr
     - xlunch-git
     - yin-yang-git
