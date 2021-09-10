@@ -5,6 +5,7 @@
   selected: false
   expanded: true
   packages:
+    - awesome-terminal-fonts
     - ttf-anonymous-pro
     - ttf-bitstream-vera
     - ttf-caladea
