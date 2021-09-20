@@ -10,7 +10,6 @@
     - audacious
     - audacious-plugins
     - audacity
-    - celluloid
     - cava
     - clementine
     - curseradio-git
@@ -37,6 +36,7 @@
   selected: false
   expanded: true
   packages:
+    - celluloid
     - filebot
     - freetube-bin
     - guvcview
