@@ -8,10 +8,12 @@
     - element-desktop
     - google-chat-linux-bin
     - hexchat
+    - mumble
     - neochat
     - pidgin
     - qtox
     - skypeforlinux-stable-bin
+    - signal-desktop
     - slack-desktop
     - teams
     - tweetdeck-desktop
