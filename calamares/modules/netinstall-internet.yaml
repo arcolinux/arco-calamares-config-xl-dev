@@ -25,6 +25,7 @@
   selected: false
   expanded: true
   packages:
+    - aria2
     - deluge
     - filezilla
     - ktorrent
