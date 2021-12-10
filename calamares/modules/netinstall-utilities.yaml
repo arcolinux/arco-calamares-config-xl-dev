@@ -122,3 +122,14 @@
     - wireshark-qt
     - workrave
     - yin-yang-git
+- name: "Accessibility Utilities"
+  description: "Accessibility Utility software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - brltty
+    - espeak-ng
+    - mousetweaks
+    - orca
