@@ -58,7 +58,10 @@
     - pitivi
     - plex-media-player
     - plex-media-server
+    - qtwebflix-git
     - smplayer
     - spotify
     - spotifywm-git
+    - youtube-dl
     - youtube-dl-gui-git
+    - yt-dlp

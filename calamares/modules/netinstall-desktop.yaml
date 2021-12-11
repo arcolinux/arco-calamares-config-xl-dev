@@ -306,6 +306,7 @@
     - arcolinux-wallpapers-git
     - gnome
     - gnome-extra
+    - gnome-system-tools
     - guake
     - ttf-hack
 - name: "Desktop: Herbstluftwm"
