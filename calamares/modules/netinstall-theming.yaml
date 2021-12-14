@@ -13,6 +13,8 @@
     - materia-gtk-theme
     - materia-kde
     - openbox-themes-pambudi-git
+    - sweet-theme-git
+    - sweet-gtk-theme-dark
 - name: "Icons"
   description: "Icons"
   critical: false
