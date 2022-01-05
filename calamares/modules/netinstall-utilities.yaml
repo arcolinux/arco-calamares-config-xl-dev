@@ -58,6 +58,7 @@
     - flatpak
     - octopi
     - pamac-all
+    - pace
     - paru-bin
     - pikaur-git
     - snapd
@@ -99,6 +100,7 @@
     - cpu-x
     - glances
     - gotop-bin
+    - gsmartcontrol
     - nvtop
     - nvtop-git
     - ookla-speedtest-bin
@@ -126,6 +128,7 @@
     - google-earth-pro
     - grsync
     - kbackup
+    - linux-wifi-hotspot
     - mullvad-vpn-bin
     - pacback
     - parcellite
