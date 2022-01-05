@@ -5,15 +5,24 @@
   selected: false
   expanded: true
   packages:
+    - anjuta
+    - arduino
+    - bluefish
     - brackets-bin
     - code
+    - codeblocks
     - emacs
     - geany
     - geany-plugins
+    - glade
     - intellij-idea-community-edition
     - kdevelop
+    - kde-dev-utils
     - leafpad
+    - netbeans
     - notepadqq
     - openscad
     - pycharm-community-edition
+    - qt5-tools
+    - qtcreator
     - visual-studio-code-bin
