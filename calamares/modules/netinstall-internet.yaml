@@ -28,9 +28,11 @@
     - aria2
     - deluge
     - filezilla
+    - fragments
     - gdown
     - jdownloader2
     - ktorrent
+    - persepolis
     - transmission-gtk
     - xdman
 - name: "Cloud Software"
