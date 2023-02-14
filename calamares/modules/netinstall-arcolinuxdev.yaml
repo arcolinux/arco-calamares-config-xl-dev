@@ -5,4 +5,10 @@
   selected: false
   expanded: true
   packages:
+    - chromium
     - flameshot-git
+    - gimp
+    - inkscape
+    - vivaldi
+    - vivaldi-ffmpeg-codecs
+    - vivaldi-widevine

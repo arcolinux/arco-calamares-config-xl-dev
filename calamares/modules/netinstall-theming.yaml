@@ -6,11 +6,14 @@
   expanded: true
   packages:
     - adapta-gtk-theme
+    - arc-darkest-theme-git
     - arcolinux-arc-kde
-    - arcolinux-arc-themes-git
     - arcolinux-sweet-mars-git
     - ayu-theme
     - breeze
+    - dracula-gtk-theme
+    - fluent-gtk-theme
+    - fluent-kde-theme-git
     - graphite-gtk-theme-git
     - kripton-theme-git
     - kvantum-theme-materia
@@ -19,6 +22,7 @@
     - layan-kde-git
     - materia-gtk-theme
     - materia-kde
+    - numix-gtk-theme-git
     - openbox-themes-pambudi-git
     - orchis-kde-theme-git
     - orchis-theme-git
@@ -34,17 +38,27 @@
   packages:
     - arc-icon-theme
     - arcolinux-candy-beauty-git
-    - breeze
+    - breeze-icons
+    - dracula-icons-git
     - faba-icon-theme-git
     - faba-mono-icons-git
     - flat-remix-git
+    - fluent-icon-theme-git
     - halo-icons-git
     - la-capitaine-icon-theme-git
+    - luna-icon-theme-git
     - moka-icon-theme-git
+    - nordzy-icon-theme-git
+    - numix-circle-arc-icons-git
+    - numix-circle-icon-theme-git
     - obsidian-icon-theme
     - oranchelo-icon-theme-git
     - paper-icon-theme
+    - papirus-folders-git
+    - papirus-folders-gui-bin
+    - papirus-folders-nordic
     - papirus-icon-theme
+    - papirus-nord
     - qogir-icon-theme
     - surfn-mint-y-icons-git
     - tela-circle-icon-theme-git
@@ -59,10 +73,16 @@
   selected: false
   expanded: true
   packages:
+    - bibata-cursor-translucent
+    - bibata-extra-cursor-theme
+    - bibata-rainbow-cursor-theme
     - capitaine-cursors
+    - catppuccin-cursors-git
+    - dracula-cursors-git
     - layan-cursor-theme-git
     - oxy-neon
     - sweet-cursor-theme-git
+    - vimix-cursors
     - xcursor-arch-cursor-complete
     - xcursor-breeze
     - xcursor-comix

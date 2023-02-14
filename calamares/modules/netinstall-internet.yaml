@@ -6,6 +6,7 @@
   expanded: true
   packages:
     - brave-bin
+    - chromium
     - falkon
     - firefox-adblock-plus
     - firefox-ublock-origin
@@ -17,6 +18,9 @@
     - opera
     - qutebrowser
     - torbrowser-launcher
+    - vivaldi
+    - vivaldi-ffmpeg-codecs
+    - vivaldi-widevine
 - name: "Downloaders"
   description: "Downloaders"
   critical: false
