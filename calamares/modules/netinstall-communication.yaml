@@ -6,6 +6,7 @@
   expanded: true
   packages:
     - element-desktop
+    - discord
     - google-chat-linux-bin
     - hexchat
     - jitsi-meet-desktop-bin
@@ -17,6 +18,7 @@
     - signal-desktop
     - slack-desktop
     - teams
+    - telegram-desktop
     - tweetdeck-desktop
     - viber
     - whatsapp-nativefier

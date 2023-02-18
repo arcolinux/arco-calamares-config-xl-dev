@@ -111,9 +111,15 @@
     - btop
     - cpufetch-git
     - cpu-x
+    - dmidecode
     - glances
     - gotop-bin
     - gsmartcontrol
+    - gtop
+    - hddtemp
+    - htop
+    - lm_sensors
+    - lshw
     - nvtop
     - nvtop-git
     - ookla-speedtest-bin
@@ -137,11 +143,15 @@
     - btrbk
     - caffeine
     - caffeine-ng
+    - catfish
     - deja-dup
     - fancontrol-gui-git
+    - galculator
     - gammy
     - google-earth-pro
     - grsync
+    - gufw
+    - hardinfo-gtk3
     - kbackup
     - linux-wifi-hotspot
     - mullvad-vpn-bin
@@ -152,6 +162,7 @@
     - powerpill
     - putty
     - redshift
+    - simple-scan
     - slimbookbattery
     - solaar
     - stacer
@@ -165,4 +176,5 @@
     - wacom-settings-git
     - wireshark-qt
     - workrave
+    - wttr
     - yin-yang-git

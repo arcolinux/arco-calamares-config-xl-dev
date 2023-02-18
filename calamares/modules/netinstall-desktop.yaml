@@ -1,16 +1,3 @@
-- name: "Desktop: Xfce4"
-  description: "Xfce4 - installed by default"
-  critical: false
-  hidden: false
-  selected: false
-  immutable: false
-  expanded: false
-  packages:
-    - mousepad
-    - orage
-    - parole
-    - xfburn
-    - xfce4-artwork
 - name: "Desktop: Awesome"
   description: "Installs awesome desktop"
   critical: false

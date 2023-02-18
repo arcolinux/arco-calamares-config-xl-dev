@@ -8,6 +8,7 @@
     - brave-bin
     - chromium
     - falkon
+    - firefox
     - firefox-adblock-plus
     - firefox-ublock-origin
     - google-chrome
@@ -36,6 +37,7 @@
     - jdownloader2
     - ktorrent
     - persepolis
+    - qbittorrent
     - transmission-gtk
     - xdman
 - name: "Cloud Software"
