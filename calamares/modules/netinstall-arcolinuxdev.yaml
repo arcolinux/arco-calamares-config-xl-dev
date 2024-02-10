@@ -5,6 +5,7 @@
   selected: false
   expanded: true
   packages:
+    - arcolinux-powermenu-git
     - chromium
     - flameshot-git
     - gimp
